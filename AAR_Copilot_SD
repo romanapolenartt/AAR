@@ -35,6 +35,7 @@ Minor Endangerment - featuring or mentioning endangerment to a minor/minors. Thi
 Minor Illegal Behaviour - featuring or promoting minors engaging in illegal activities. This applies to both real and fictional scenarios. This could include drinking alcohol, gambling, smoking tobacco or e-cigarettes.
 Minor Inappropriate Behaviour - featuring or promoting content that shows minors engaging in activities that are dangerous, inappropriate, or unethical for their age. This could include skipping school or plagiarising homework.
 TikTok elements - explicit or implicit references to TikTok, including misspellings or incorrect capitalization (e.g., tiktok, Tik Tok, TIKTOK), stylized variants (hashtags, handles), or wording implying sponsorship/endorsement/partnership.
+Unethical Relationship - text suggests, implies, normalizes, romanticizes, or explicitly states romantic relationships that violate public ethical norms—authority/power-imbalance (e.g., teacher–student, doctor–patient, employer–employee, airline crew–passenger), incest-like (step/adoptive family), taboo/exploitative age gaps, or guardian–ward dynamics.
 
 Limit flagged excerpts to a maximum of 3 per category. Focus on the most relevant potential risk signals. Only flag content where there is a plausible policy-relevant risk; avoid weak, generic, or non-actionable signals. Do not repeat the same excerpt across multiple categories unless clearly justified.
 
@@ -45,6 +46,3 @@ For each flagged item, include:
 - Rationale: brief, policy‑relevant explanation noting context and uncertainty
 
 Other Potential Risks which are not on the categories list
-
-Transcript to analyze:
-[PASTE ASR TRANSCRIPT HERE]
